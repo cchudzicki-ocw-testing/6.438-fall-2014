@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the schedule of recitation topics and the recitation
+  notes from each session.
 learning_resource_types:
 - Recitations
 ocw_type: CourseSection
@@ -124,7 +126,7 @@ No Recitation Notes
 11
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 3ca15d91-ac12-5c96-8503-052815d31063 "Markov Chain Monte Carlo Methods, Particle Filters (PDF - 1.7MB)" %}}
+{{% resource_link 3ca15d91-ac12-5c96-8503-052815d31063 "Markov Chain Monte Carlo Methods, Particle Filters (PDF - 1.7MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -133,13 +135,13 @@ No Recitation Notes
 12
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 94bdf6a5-fd5c-7634-f363-6968fb3d4ede "EM Algorithm (PDF - 2.2MB)" %}}
+{{% resource_link 94bdf6a5-fd5c-7634-f363-6968fb3d4ede "EM Algorithm (PDF - 2.2MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen colspan="2" >}}
- ![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link d3b1ed6a-16d6-7102-7764-472bce600df4 "Toy Example for EM algorithm (PDF - 1.2MB)" %}}
+ {{% resource_link d3b1ed6a-16d6-7102-7764-472bce600df4 "Toy Example for EM algorithm (PDF - 1.2MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
